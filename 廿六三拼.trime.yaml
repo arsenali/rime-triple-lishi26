@@ -65,7 +65,7 @@ labels:  # 繁體中文
   56: &lb_Keyboard_switch 鍵盤
   57: &lb_Keyboard_move ❖
   58: &lb_Keyboard_next 前進
-  59: &lb_Keyboard_last 後退
+  59: &lb_Keyboard_last 返回
   60: &lb_Keyboard_symbols 符號
   61: &lb_Keyboard_number 數字
   62: &lb_Keyboard_letter 'abc'
