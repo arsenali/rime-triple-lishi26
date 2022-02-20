@@ -52,3 +52,12 @@
 或：https://pan.baidu.com/s/1i4X3WFz 密码: 1jpd
 
 QQ群：[150478288](https://jq.qq.com/?_wv=1027&k=5wf1uTQ)
+
+<br>
+
+### &#8627; Stargazers
+[![Stargazers repo roster for @arsenali/rime-triple-lishi26](https://reporoster.com/stars/arsenali/rime-triple-lishi26)](https://github.com/arsenali/rime-triple-lishi26/stargazers)
+
+### &#8627; Forkers
+[![Forkers repo roster for @arsenali/rime-triple-lishi26](https://reporoster.com/forks/arsenali/rime-triple-lishi26)](https://github.com/arsenali/rime-triple-lishi26/network/members)
+
