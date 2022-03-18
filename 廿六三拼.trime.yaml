@@ -124,6 +124,8 @@ style:
   key_long_text_size: 14 #長標籤字號
   key_text_size: 22 #鍵字號
   proximity_correction: true #按鍵糾錯
+  __patch: # v補充鍵盤
+    keyboards/+: [numberyou, symbolsyou, lsedit, lsjpqwerty, lsjp, lsfc_pinyin, lsfc_stroke, lsfc_pinyinP, lsfc_strokeB]
   __patch: # v廿六三拼鍵盤
     keyboards/+: [ls26bz1, ls26bz2, ls26bz2p2, ls26zybz1, ls26zybz2, ls26zybz2p2, ls26zybz3]
 
